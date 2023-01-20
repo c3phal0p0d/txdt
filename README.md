@@ -8,6 +8,7 @@ A minimalistic text editor inspired by the [kilo](https://github.com/antirez/kil
 - `CTRL-F`: Search file (Esc/Enter to exit search, arrows to navigate)  
 
 ### To be implemented
+- Copy & paste
 - Syntax highlighting for more languages
 - Auto indent
-- Copy & paste
+- Find & replace
